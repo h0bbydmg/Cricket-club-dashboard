@@ -1,9 +1,9 @@
 Cricket club dashboard using nextjs, materialUI, nodejs, mongoDB.
 
 player page (static):
-view upcoming match
-view player stats
-players can mark availability
+view upcoming match,
+view player stats,
+players can mark availability,
 (is also responsive)
 
 admin page (sample):
